@@ -65,6 +65,8 @@ html, body {
     justify-content: center;
     align-content: center;
 
+    border: solid 4px black;
+
     position: absolute;
     top: 0;
     right: 0;
